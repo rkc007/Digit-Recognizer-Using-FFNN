@@ -1,8 +1,3 @@
-'''
-Kaggle Competition:
-Digit Recognizer - Learn Computer Vision Fundamentals with the famous MNIST Data
-Jingyi Luo
-'''
 
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
