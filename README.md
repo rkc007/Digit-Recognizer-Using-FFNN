@@ -2,7 +2,7 @@
 
 This project is aiming to recognize the gray-scale images of hand-drawn digits from zero through nine using FFNN. Moreover, the effects of number of layers, different regularization techniques (dropout, L1 regulariztion, L2 regularization), learning rates, epochs, batch sizes and width of layers have been investigated to incease the prediction accuracy of the model.
 
-The data can be accessed here: [Data](https://www.kaggle.com/c/digit-recognizer/data)
+The data can be accessed here: [Kaggle](https://www.kaggle.com/c/digit-recognizer/data)
 
 ## Architecture of FFNN
 
